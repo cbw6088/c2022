@@ -184,4 +184,52 @@ int main() {
 
 
 
+### Test_Exam3.c
+종료 조건까지 문자를 연속해서 입력받는다. 영문 대문자 또는 영문 소문자 의 연속된 입력을 하나의 구간이라고 한다. 예를 들어, (입력 예시 1)의 첫 번째 구간은 “sAd”이고, 두 번째 구간은 “Ijfgh”이며, 세 번째 구간은 “Kup” 이다. 각 구간에서 알파벳 순서상 가장 빠른 문자와 두 번째로 빠른 문자를 출력하는 프로그램을 작성하시오.
+- 종료 조건 : ‘!’ 입력
+- ‘A’와 ‘a’처럼 알파벳 순서가 동일한 두 문자가 입력된 경우에는 대문자 ‘A’가 소문자 ‘a’보다 빠르다고 가정한다. 즉, 이 문제에서 영문자의 빠른 순서는 A, a, B, b, C, c, D, d, E, e ... 순 서이다.
+- 입력되는 문자의 각 구간마다 영문자가 두 개 이상 있다고 가정하고, 한 구간에서 같은 문자 가 두 번 이상 나오는 경우는 없다고 가정한다.
+
+```c++
+#include <stdio.h>
+int main(void)
+{
+    char ch='*'; char temp; char first = 'z'; char second; int cnt=0;
+    while(ch != '!'){
+        temp = ch;
+        scanf("%c",&ch);
+
+        if(ch >= 'A' && ch <'z'){
+            if(first == ch+32){ // first가 소문자면 대문자로 바꾸기
+                first = ch;
+                //printf("%c\n",first);
+            }
+            else if(first == ch-32){ // first가 대문자면 대문자 그대로
+                first = ch-32;
+                //printf("%c\n",first);
+            }
+            else if(first > ch){ // first가 더 높은 아스키코드값일 경우
+                second = first;
+                first = ch;
+                //printf("%c %c\n",first,second);
+            }
+            else if(second > ch){ // first보단 크지만 second보단 작을때
+                second = ch;
+            }
+        } // 첫번째 if
+        else{
+            continue;
+        }
+        
+        if( (temp >= 'A'  && temp <= 'z') && (ch < 'A' || ch > 'z') ){ // temp는 알파벳이고 ch는 그 외 일때
+            printf("%c%c\n",first,second);
+        }
+
+    } //while
+    
+  return 0;
+}
+```
+
+
 
