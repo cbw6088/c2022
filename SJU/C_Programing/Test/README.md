@@ -10,14 +10,13 @@
 - CE 학생이 11200 대신 11300을 오류로 입력하는 경우와 같이, 오류로 입력된 비밀번호가 우
 연히 생성 규칙에 맞는 비밀번호인 경우도 없다고 가정한다. 즉, 생성 규칙에 맞는 비밀번호 입력은 모두 오류가 없는 입력이라고 가정한다.
 
+<img width="833" alt="스크린샷 2022-06-27 오후 3 53 21" src="https://user-images.githubusercontent.com/99342700/175877792-1bcfa9f6-3631-4382-b127-848908aefd36.png">
+
 1. 각 변수 선언 후 입력 받기.
 2. 조건에 맞추어 변수 값 세팅.
 3. CE,SW,DE 해당 값이 나올 때 카운트를 올려주기.
 4. "none"가 나오면 표시를 한 후 정상적인 출력이 될 때 따로 표시 후 새로운 카운트 올리기.
 5. 마지막에 출력 하면서 올린 카운트 출력과 카운트에서 잘못된 카운트를 뺀 후 출력.
-
-<img width="833" alt="스크린샷 2022-06-27 오후 3 53 21" src="https://user-images.githubusercontent.com/99342700/175877792-1bcfa9f6-3631-4382-b127-848908aefd36.png">
-
 
 ```c++
 #include <stdio.h>
@@ -94,14 +93,13 @@ int main(void){
 - 종료 조건 : 입력된 정수 N이 바로 직전에 입력된 정수보다 작으면 종료한다. 즉, 현재 입력 된 정수가 앞서 입력된 정수보다 크거나 같은 경우 지속적으로 다음 정수를 입력받고, 현재 입력된 정수가 앞서 입력된 정수보다 작으면 “End”를 출력하고 종료된다.
 - 최소 두 개 이상의 정수가 입력된다고 가정한다.
 
+<img width="801" alt="스크린샷 2022-06-27 오후 3 52 24" src="https://user-images.githubusercontent.com/99342700/175877625-514a1d21-b3e8-4b2d-b4c1-520126103a2c.png">
+
 1. 입력 받은 정수 N을 출력
 2. for문을 이용하여 각 자릿수 곱하기  
     - 시작하는 곱하기 변수는 <mark>0이 아닌 1로</mark> 초기화
 3. 역순 변수에 10을 곱하며 누적해서 더하기
 4. main 함수에서 저장된 이전 N의 값을 M의 값으로 저장 후 새로운 N의 값에서 빼기
-
-<img width="801" alt="스크린샷 2022-06-27 오후 3 52 24" src="https://user-images.githubusercontent.com/99342700/175877625-514a1d21-b3e8-4b2d-b4c1-520126103a2c.png">
-
 
 ```c++
 #include <stdio.h>
@@ -147,14 +145,13 @@ int main(void){
 - 연속적으로 나오는 소수는 개수에 관계없이 모두 한 줄에 출력한다. - 각 줄 마지막에 별표(*)를 출력하시오.
 - N개의 양의 정수 중, 소수가 최소 1개 이상이라고 가정한다.
 
+<img width="834" alt="스크린샷 2022-06-27 오후 3 51 29" src="https://user-images.githubusercontent.com/99342700/175877451-4064ddd4-d586-4fbc-acd9-bccd511d6b3b.png">
+
 1. N을 입력 받은 후 N번 만큼의 반목문 실행.
 2. 소수라면 카운트2로 세팅이 되어 소수일시 출력.
     - 출력 전 이전 값이 소수가 아니었을 시 별표와 줄 바꿈.
 3. 소수가 아닌 경우 카운트2 올리기.
 4. 마지막에 필요한 * 출력.
-
-<img width="834" alt="스크린샷 2022-06-27 오후 3 51 29" src="https://user-images.githubusercontent.com/99342700/175877451-4064ddd4-d586-4fbc-acd9-bccd511d6b3b.png">
-
 
 ```c++
 #include <stdio.h>
@@ -193,55 +190,202 @@ int main() {
 
 
 
-### Test_Exam4.c
+### Test_Exam4-1.c
+종료 조건까지 문자를 연속해서 입력받아, 영문 대문자 또는 영문 소문자 중 알파벳 순서상 가장 빠른 문자와 가장 나중 문자를 출력하는 프로그램을 작성하시오.
+- 종료 조건 : ‘!’ 입력
+- ‘A’와 ‘a’처럼 알파벳 순서가 동일한 두 문자가 입력된 경우에는 대문자 ‘A’가 소문자 ‘a’보다 빠르다고 가정한다. 즉, 이 문제에서 영문자의 빠른 순서는 A, a, B, b, C, c, D, d, E, e ... 순 서이다.
+- 입력되는 문자 중에는 영문자가 한 개 이상 있다고 가정한다. 영문자가 한 개 입력되는 경우, 가장 빠른 문자와 가장 나중 문자는 동일한 문자이다.
+
+<img width="821" alt="스크린샷 2022-06-27 오후 6 27 42" src="https://user-images.githubusercontent.com/99342700/175907703-b7af616c-ad29-4b9e-8bc1-592b0f2e2537.png">
+
+1. 변수 지정 (max,min의 최초 값은 가장 작은 값, 가장 큰 값 저장)
+2. 입력된 값이 알파벳인 경우에만 실행.
+3. 입력되는 소문자는 모두 대문자로 바꾸고 비교가 후 다시 소문자로 바꾸어 변수에 값 저장.
+4. 입력된 값이 크거나 같을 시 max에 값 저장.
+5. 입력된 값이 작거나 같을 시 min에 값 저장.
+6. 반복문이 끝날 때 max와 min을 제외한 변수 초기화.
+7. max,min값 출력.
+
+```c++
+#include <stdio.h>
+
+int main(void){
+    char new; char max='A'; char min='Z';
+    int cnt1=0; int cnt2=0; int cnt3=0;
+
+    while(1){
+        scanf("%c",&new);
+        if(new == '!'){break;}
+
+        if( (new >= 'A' && new <= 'Z') || (new >= 'a' && new <= 'z') ){
+
+            if(new >= 'a' && new <= 'z'){
+                new = new - 32;
+                cnt1 = 1;
+            }
+            if(max >= 'a' && max <= 'z'){
+                max = max - 32;
+                cnt2 = 1;
+            }
+            if(min >= 'a' && min <= 'z'){
+                min = min - 32;
+                cnt3 = 1;
+            }
+
+            if(max <= new){
+                if(cnt1 == 1){
+                    new = new + 32;
+                }
+                max = new;
+                if(cnt1 == 1){
+                    new = new - 32;
+                }
+            }
+            else{
+                if(cnt2 == 1){
+                    max = max + 32;
+                }
+            }
+
+            if(min >= new){
+                if(cnt1 == 1){
+                    new = new + 32;
+                }
+                min = new;
+            }
+            else{
+                if(cnt3 == 1){
+                    min = min + 32;
+                }
+            }
+            
+            cnt1=0;
+            cnt2=0;
+            cnt3=0;
+        }
+        
+    }
+    printf("%c\n%c",min,max);
+    return 0;
+}
+```
+
+
+
+### Test_Exam4-2.c
 종료 조건까지 문자를 연속해서 입력받는다. 영문 대문자 또는 영문 소문자 의 연속된 입력을 하나의 구간이라고 한다. 예를 들어, (입력 예시 1)의 첫 번째 구간은 “sAd”이고, 두 번째 구간은 “Ijfgh”이며, 세 번째 구간은 “Kup” 이다. 각 구간에서 알파벳 순서상 가장 빠른 문자와 두 번째로 빠른 문자를 출력하는 프로그램을 작성하시오.
 - 종료 조건 : ‘!’ 입력
 - ‘A’와 ‘a’처럼 알파벳 순서가 동일한 두 문자가 입력된 경우에는 대문자 ‘A’가 소문자 ‘a’보다 빠르다고 가정한다. 즉, 이 문제에서 영문자의 빠른 순서는 A, a, B, b, C, c, D, d, E, e ... 순 서이다.
 - 입력되는 문자의 각 구간마다 영문자가 두 개 이상 있다고 가정하고, 한 구간에서 같은 문자 가 두 번 이상 나오는 경우는 없다고 가정한다.
 
-1. 변수를 지정 후 반복문 안에서 종료 조건 지정.
-
 <img width="817" alt="스크린샷 2022-06-27 오후 3 50 27" src="https://user-images.githubusercontent.com/99342700/175877306-be0a9655-d70e-4908-9ee2-db9771817c94.png">
 
+1. 변수 지정.
+    - max,min값은 가장 작은 값과 가장 큰 값.
+    - new값은 temp에 바로 들어가므로 특수문자.
+2. 무한루프 반복문에서 temp에 이전 값 저장 후 새로운 new값 입력.
+3. 입력 범위가 알파벳 안에 있을 때 실행.
+    - 범위 밖일 시 temp값 변경.
+    - 조건에 맞을 시 min,max값 출력.
+4. 모든 소문자는 대문자로 바꾸어 비교.
+5. 조건문을 통해 가장 빠른 문자는 min에 저장 / 그 다음 빠른 문자는 max에 저장.
+    - 값 저장하기 전에 원래 소문자였으면 값을 다시 소문자로 변경 후 저장.
+6. 이전 값(temp)가 알파벳이고 현재 값(new)가 알파벳이 아닐 때 max,min값 출력.
 
 ```c++
 #include <stdio.h>
-int main(void)
-{
-    char ch='*'; char temp; char first = 'z'; char second; int cnt=0;
-    while(ch != '!'){
-        temp = ch;
-        scanf("%c",&ch);
 
-        if(ch >= 'A' && ch <'z'){
-            if(first == ch+32){ // first가 소문자면 대문자로 바꾸기
-                first = ch;
-                //printf("%c\n",first);
+int main(void){
+    char new='*'; char max='A'; char min='Z'; char temp;
+    int cnt1=0; int cnt2=0; int cnt3=0;
+
+    while(1){
+        temp = new;
+        scanf("%c",&new);
+        if(new == '!'){break;}
+
+        if( (new >= 'A' && new <= 'Z') || (new >= 'a' && new <= 'z') ){
+
+            if(new >= 'a' && new <= 'z'){
+                new = new - 32;
+                cnt1 = 1;
             }
-            else if(first == ch-32){ // first가 대문자면 대문자 그대로
-                first = ch-32;
-                //printf("%c\n",first);
+            if(max >= 'a' && max <= 'z'){
+                max = max - 32;
+                cnt2 = 1;
             }
-            else if(first > ch){ // first가 더 높은 아스키코드값일 경우
-                second = first;
-                first = ch;
-                //printf("%c %c\n",first,second);
+            if(min >= 'a' && min <= 'z'){
+                min = min - 32;
+                cnt3 = 1;
             }
-            else if(second > ch){ // first보단 크지만 second보단 작을때
-                second = ch;
-            }
-        } // 첫번째 if
-        else{
-            continue;
-        }
+
+            if(min >= new){
+                if(min == new){
+                    if(cnt3 == 1){
+                        min = min + 32;
+                        cnt3 = 0;
+                    }
+                    max = min;
+                    min = new;
+                }
+                else if(min > new){
+                    if(cnt1 == 1){
+                        new = new + 32;
+                        cnt1 = 0;
+                    }
+                    if(cnt3 == 1){
+                        min = min + 32;
+                        cnt3 = 0;
+                    }
+                    max = min;
+                    min = new;
+                }
+            } // if (min >= new)    
+            else if(max >= new){
+                if(max == new){
+                    if(cnt3 == 1){
+                        min = min + 32;
+                        cnt3 = 0;
+                    }
+                    max = new;    
+                }
+                else if(max > new){
+                    if(cnt1 == 1){
+                        new = new + 32;
+                        cnt1 = 0;
+                    }
+                    if(cnt3 == 1){
+                        min = min + 32;
+                        cnt3 = 0;
+                    }
+                    max = new;
+                }
+            } // else if (max >= new)
+            else{
+                if(cnt2 == 1){
+                    max = max + 32;
+                }
+                if(cnt3 == 1){
+                    min = min + 32;
+                }
+            }         
+            cnt1=0;
+            cnt2=0;
+            cnt3=0;
+        } // 맨 처음 알파벳 범위 if문
         
-        if( (temp >= 'A'  && temp <= 'z') && (ch < 'A' || ch > 'z') ){ // temp는 알파벳이고 ch는 그 외 일때
-            printf("%c%c\n",first,second);
-        }
-
-    } //while
-    
-  return 0;
+        if( (temp >= 'A' && temp <= 'Z') || (temp >= 'a' && temp <= 'z') ) {
+            if((new >= 'A' && new <= 'Z') || (new >= 'a' && new <= 'z')){
+                continue;
+            }
+            else{
+               printf("%c%c\n",min,max);
+                min = 'Z';
+                max = 'A'; 
+            }
+        } // 마지막 if문
+    }
+    return 0;
 }
 ```
 
@@ -250,12 +394,13 @@ int main(void)
 ### Test_Exam5-1.c
 영문 소문자 C1과 C2를 입력받아, C1과 C2를 포함한 C1과 C2 사이의 소문 자 세 개로 이루어진 단어 중 다음의 조건을 만족하는 단어를 출력하는 프로그램을 작성하시오.
 
-※ 단어 생성 조건
 <img width="786" alt="스크린샷 2022-06-27 오후 3 21 42" src="https://user-images.githubusercontent.com/99342700/175872879-d8c5921b-8b20-47c2-b989-68b2825d3c17.png">
 
 - 출력 순서는 단어가 사전에 나오는 순서이다. 사전에 나오는 순서란 알파벳 순서가 빠른 문 자로 이루어진 단어가 먼저 출력된다는 의미이다. 예를 들어, aab와 abc를 비교해보면, 첫 번 째 문자는 ‘a’로 동일하지만, 두 번째 문자인 aab의 ‘a’가 abc의 ‘b’보다 빠르기 때문에 aab가 abc보다 사전 순서 상 빠른 단어이다.
 - C1과 C2 사이의 문자로 조건에 맞는 단어가 만들어지지 않는 경우에는 “none”을 출력한다.
 - C1은 C2 보다 알파벳 순서 상 빠른 문자라고 가정한다.
+
+<img width="829" alt="스크린샷 2022-06-27 오후 3 49 17" src="https://user-images.githubusercontent.com/99342700/175877074-c0263f0c-f1e2-4322-ab56-22c00f2d7e9e.png">
 
 1. 변수 지정 후 변수에 알파벳 범위 입력.
 2. i,j,k 를 반복하며 출력.
@@ -264,9 +409,6 @@ int main(void)
     - i와 k의 값이 서로 달라야 범위 내에서 알파벳들이 모두 같은 문자가 나오지 않음.
     - 중간값에 들어가는 모음은 언제나 첫 번째와 세 번째 사이의 값으로 지정.
 3. 조건을 충족시키지 못할 시 "none" 출력
-
-<img width="829" alt="스크린샷 2022-06-27 오후 3 49 17" src="https://user-images.githubusercontent.com/99342700/175877074-c0263f0c-f1e2-4322-ab56-22c00f2d7e9e.png">
-
 
 ```c++
 #include <stdio.h>
@@ -312,6 +454,8 @@ int main(void){
 - 사전순서상 T보다 빠른 단어를 찾을 수 없는 경우에도 “none”을 출력한다. (출력 예시 2와 3 참고)
 - C1은 C2 보다 알파벳 순서 상 빠른 문자라고 가정한다.
 
+<img width="821" alt="스크린샷 2022-06-27 오후 3 47 44" src="https://user-images.githubusercontent.com/99342700/175876886-35ffd97c-2a54-44e0-8242-345c80469875.png">
+
 1. 변수 지정 후 변수에 알파벳 범위와 T값 입력.
 2. i,j,k 를 반복하며 출력.
     - 중간값 모음 지정.
@@ -320,8 +464,6 @@ int main(void){
     - 중간값에 들어가는 모음은 언제나 첫 번째와 세 번째 사이의 값으로 지정.
 3. i와 T1, j와 T2, k와 T3의 크기를 비교하여 T값보다 사전 순서상 빠르면 값 저장.
 4. 알파벳 범위와 T값 각각 조건을 충족시키지 못할 시 "none"출력
-
-<img width="821" alt="스크린샷 2022-06-27 오후 3 47 44" src="https://user-images.githubusercontent.com/99342700/175876886-35ffd97c-2a54-44e0-8242-345c80469875.png">
 
 ```c++
 #include <stdio.h>
