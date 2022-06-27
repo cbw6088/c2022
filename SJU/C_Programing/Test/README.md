@@ -16,6 +16,9 @@
 4. "none"가 나오면 표시를 한 후 정상적인 출력이 될 때 따로 표시 후 새로운 카운트 올리기.
 5. 마지막에 출력 하면서 올린 카운트 출력과 카운트에서 잘못된 카운트를 뺀 후 출력.
 
+<img width="833" alt="스크린샷 2022-06-27 오후 3 53 21" src="https://user-images.githubusercontent.com/99342700/175877792-1bcfa9f6-3631-4382-b127-848908aefd36.png">
+
+
 ```c++
 #include <stdio.h>
 int main(void){
@@ -97,6 +100,9 @@ int main(void){
 3. 역순 변수에 10을 곱하며 누적해서 더하기
 4. main 함수에서 저장된 이전 N의 값을 M의 값으로 저장 후 새로운 N의 값에서 빼기
 
+<img width="801" alt="스크린샷 2022-06-27 오후 3 52 24" src="https://user-images.githubusercontent.com/99342700/175877625-514a1d21-b3e8-4b2d-b4c1-520126103a2c.png">
+
+
 ```c++
 #include <stdio.h>
 
@@ -147,6 +153,9 @@ int main(void){
 3. 소수가 아닌 경우 카운트2 올리기.
 4. 마지막에 필요한 * 출력.
 
+<img width="834" alt="스크린샷 2022-06-27 오후 3 51 29" src="https://user-images.githubusercontent.com/99342700/175877451-4064ddd4-d586-4fbc-acd9-bccd511d6b3b.png">
+
+
 ```c++
 #include <stdio.h>
 
@@ -192,6 +201,9 @@ int main() {
 
 1. 변수를 지정 후 반복문 안에서 종료 조건 지정.
 
+<img width="817" alt="스크린샷 2022-06-27 오후 3 50 27" src="https://user-images.githubusercontent.com/99342700/175877306-be0a9655-d70e-4908-9ee2-db9771817c94.png">
+
+
 ```c++
 #include <stdio.h>
 int main(void)
@@ -235,9 +247,12 @@ int main(void)
 
 
 
-### Test_Exam4.c
+### Test_Exam5-1.c
 영문 소문자 C1과 C2를 입력받아, C1과 C2를 포함한 C1과 C2 사이의 소문 자 세 개로 이루어진 단어 중 다음의 조건을 만족하는 단어를 출력하는 프로그램을 작성하시오.
+
 ※ 단어 생성 조건
+<img width="786" alt="스크린샷 2022-06-27 오후 3 21 42" src="https://user-images.githubusercontent.com/99342700/175872879-d8c5921b-8b20-47c2-b989-68b2825d3c17.png">
+
 - 출력 순서는 단어가 사전에 나오는 순서이다. 사전에 나오는 순서란 알파벳 순서가 빠른 문 자로 이루어진 단어가 먼저 출력된다는 의미이다. 예를 들어, aab와 abc를 비교해보면, 첫 번 째 문자는 ‘a’로 동일하지만, 두 번째 문자인 aab의 ‘a’가 abc의 ‘b’보다 빠르기 때문에 aab가 abc보다 사전 순서 상 빠른 단어이다.
 - C1과 C2 사이의 문자로 조건에 맞는 단어가 만들어지지 않는 경우에는 “none”을 출력한다.
 - C1은 C2 보다 알파벳 순서 상 빠른 문자라고 가정한다.
@@ -245,14 +260,20 @@ int main(void)
 1. 변수 지정 후 변수에 알파벳 범위 입력.
 2. i,j,k 를 반복하며 출력.
     - 중간값 모음 지정.
+    - 모음이 아닐 시 에러 표시 후 "none" 출력.
     - i와 k의 값이 서로 달라야 범위 내에서 알파벳들이 모두 같은 문자가 나오지 않음.
     - 중간값에 들어가는 모음은 언제나 첫 번째와 세 번째 사이의 값으로 지정.
+3. 조건을 충족시키지 못할 시 "none" 출력
+
+<img width="829" alt="스크린샷 2022-06-27 오후 3 49 17" src="https://user-images.githubusercontent.com/99342700/175877074-c0263f0c-f1e2-4322-ab56-22c00f2d7e9e.png">
+
 
 ```c++
 #include <stdio.h>
 
 int main(void){
     char N; char M;
+    int err=0;
     scanf("%c%c",&N,&M);
     for(char i = N; i <= M; i++){
         for(char j = N; j <= M; j++){
@@ -267,12 +288,94 @@ int main(void){
                         }
                     }
                 }
+                else{
+                    err=1;
+                }
             }
         }
+    }
+    if(err==1){
+        printf("none");
     }
     return 0;
 }
 ```
 
+
+
+### Test_Exam5-2.c
+영문 소문자 C1, C2와 영문 소문자 세 개로 이루어진 단어 T를 C1C2-T의 형식으로 입력받아,
+(1) C1과 C2를 포함한 C1과 C2 사이의 소문자 세 개로 이루어진 단어 중 [ 문제5-1 ]의 단어 생성 조건을 만족하는 단어를 사전에 나오는 순서로 출력한다.
+(2) (1)에서 출력된 단어 중에서, 단어 T보다 사전순서상 빠른 가장 마지막으로 출력된 단어를 출력한다.
+- (1)의 출력 순서는 단어가 사전에 나오는 순서이다. 사전에 나오는 순서란 알파벳 순서가 빠 른 문자로 이루어진 단어가 먼저 출력된다는 의미이다. 예를 들어, aab와 abc를 비교해보면, 첫 번째 문자는 ‘a’로 동일하지만, 두 번째 문자인 aab의 ‘a’가 abc의 ‘b’보다 빠르기 때문에 aab가 abc보다 사전 순서 상 빠른 단어이다.
+- C1과 C2 사이의 문자로 조건에 맞는 단어가 만들어지지 않는 경우에는 “none”을 출력한다.
+- 사전순서상 T보다 빠른 단어를 찾을 수 없는 경우에도 “none”을 출력한다. (출력 예시 2와 3 참고)
+- C1은 C2 보다 알파벳 순서 상 빠른 문자라고 가정한다.
+
+1. 변수 지정 후 변수에 알파벳 범위와 T값 입력.
+2. i,j,k 를 반복하며 출력.
+    - 중간값 모음 지정.
+    - 모음이 아닐 시 에러 표시 후 "none" 출력.
+    - i와 k의 값이 서로 달라야 범위 내에서 알파벳들이 모두 같은 문자가 나오지 않음.
+    - 중간값에 들어가는 모음은 언제나 첫 번째와 세 번째 사이의 값으로 지정.
+3. i와 T1, j와 T2, k와 T3의 크기를 비교하여 T값보다 사전 순서상 빠르면 값 저장.
+4. 알파벳 범위와 T값 각각 조건을 충족시키지 못할 시 "none"출력
+
+<img width="821" alt="스크린샷 2022-06-27 오후 3 47 44" src="https://user-images.githubusercontent.com/99342700/175876886-35ffd97c-2a54-44e0-8242-345c80469875.png">
+
+```c++
+#include <stdio.h>
+
+int main(void){
+    char N; char M; char T1,T2,T3; char t1,t2,t3;
+    int err=0; int T=0;
+    scanf("%c%c-%c%c%c",&N,&M,&T1,&T2,&T3);
+    for(char i = N; i <= M; i++){
+        for(char j = N; j <= M; j++){
+            for(char k = N; k <= M; k++){
+                if(j=='a' || j=='e' || j=='i' || j=='o' || j=='u'){
+                    err=1;
+                    if(i != k){
+                        if( (i <= j && k >= j) || (i >= j && k <= j) ){
+                            printf("%c%c%c\n",i,j,k);
+                            if(i < T1){
+                            T=1;
+                            t1 = i;
+                            t2 = j;
+                            t3 = k;
+                        }
+                        else if(i == T1){
+                            if(j < T2){
+                                t1 = i;
+                                t2 = j;
+                                t3 = k;
+                            }
+                            else if(j == T2){
+                                if(k < T3){
+                                    t1 = i;
+                                    t2 = j;
+                                    t3 = k;
+                                }
+                            }
+                        }
+                        }
+                        
+                    }
+                }
+            }
+        }
+    }
+    if(err==0){
+        printf("none\n");
+    }
+    if(T==1){
+        printf("%c%c%c",t1,t2,t3);
+    }
+    else if(T==0){
+        printf("none");
+    }
+    return 0;
+}
+```
 
 
