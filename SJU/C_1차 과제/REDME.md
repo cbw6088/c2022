@@ -166,6 +166,10 @@ int main(void){
 
 <img width="404" alt="스크린샷 2022-06-29 오후 5 03 48" src="https://user-images.githubusercontent.com/99342700/176384753-2e652e4c-a965-4060-8705-60ed846a73cd.png">
 
+1. 5번 문제와 동일한 방식으로 세팅.
+2. 각 자릿수 중 중간값인 경우 결과값에 저장.
+3. 결과값 출력.
+
 ```c++
 #include <stdio.h>
 int main(void){
