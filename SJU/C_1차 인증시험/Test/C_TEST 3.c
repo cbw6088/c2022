@@ -1,32 +1,23 @@
 #include <stdio.h>
+int main(void){
+	int N=0,M=0,cnt=0,last=0;
+	scanf("%d",&N);
 
-int main() { 
-int N=0; int M=0; int cnt=0; int cnt2=0;
-scanf("%d",&N);
-while(N){
-    scanf("%d",&M);
-    cnt=0;
-    for(int i=1; i<=M; i++){
-        if(M%i==0){
-            cnt++;
-        }
-    }
+	for(int i=0; i<N; i++){
+		scanf("%d",&M);
 
-    if(cnt==2){
-
-        if(cnt2!=0){
-            printf(" *");
-            printf("\n");
-            cnt2=0;
-        }
-
-        printf("%d ",M);
-    }
-    else if(cnt>2){
-        cnt2++;
-    }
-    N--;
-}
-printf("*");
-return 0; 
+		for(int j=2; j<=M; j++){
+			if(M%j == 0){
+				cnt++;
+			}
+		}
+		if(cnt==1){
+			printf("%d ",M);
+		}
+		else{
+			printf("*\n");
+		}
+		cnt=0;
+	}
+  	return 0;
 }

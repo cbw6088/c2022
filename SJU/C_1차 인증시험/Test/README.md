@@ -105,38 +105,31 @@ int main(void){
 
 ```c++
 #include <stdio.h>
-
-void Solution(int new, int old){
-    int mul=1; int reverse=0;
-    printf("%d ",new);
-    
-    for(int i=new; i>0; i=i/10){
-    mul = mul * (i%10);
-    }
-    printf("%d ",mul);
-
-    while(mul>0){
-        reverse = reverse * 10;
-        reverse = reverse + mul%10;
-        mul = mul / 10;
-    }
-    printf("%d ",reverse);
-
-    printf("%d\n",new-old);
-    }
-
 int main(void){
-    int N=0; int M=0;
-    while(1){
-        M=N;
-        scanf("%d",&N);
-        if(N<M){
-            printf("End");
-            return -1;
-        }
-        Solution(N,M); 
-    }
-    return 0;
+	int N=0; int mul=1,re=0,sub=0;
+
+	while(1){
+		sub = N;
+		scanf("%d",&N);
+		if(N < sub){return -1;}
+		printf("%d ",N);
+
+		for(int i=N; i>0; i=i/10){
+			mul = mul * (i % 10);
+		}
+		printf("%d ",mul);
+
+		for(int i=mul; i>0; i=i/10){
+			re = re * 10;
+			re = re + i % 10;
+		}
+		printf("%d ",re);
+
+		printf("%d\n",N-sub);
+		mul = 1;
+		re = 0;
+	}
+  	return 0;
 }
 ```
 
@@ -150,43 +143,32 @@ int main(void){
 <img width="834" alt="스크린샷 2022-06-27 오후 3 51 29" src="https://user-images.githubusercontent.com/99342700/175877451-4064ddd4-d586-4fbc-acd9-bccd511d6b3b.png">
 
 1. N을 입력 받은 후 N번 만큼의 반목문 실행.
-2. 소수라면 카운트2로 세팅이 되어 소수일시 출력.
-    - 출력 전 이전 값이 소수가 아니었을 시 별표와 줄 바꿈.
-3. 소수가 아닌 경우 카운트2 올리기.
-4. 마지막에 필요한 * 출력.
+2. 나눠질 경우 카운트를 올리고 카운트가 1이라면 소수.
+3. 소수일 시 입력 받은 값을 출력 하고 아닐 시 별과 줄바꿈 출력.
 
 ```c++
 #include <stdio.h>
+int main(void){
+	int N=0,M=0,cnt=0,last=0;
+	scanf("%d",&N);
 
-int main() { 
-    int N=0; int M=0; int cnt=0; int cnt2=0;
-    scanf("%d",&N);
-    while(N){
-        scanf("%d",&M);
-        cnt=0;
-        for(int i=1; i<=M; i++){
-            if(M%i==0){
-                cnt++;
-            }
-        }
+	for(int i=0; i<N; i++){
+		scanf("%d",&M);
 
-        if(cnt==2){
-
-            if(cnt2!=0){
-                printf(" *");
-                printf("\n");
-                cnt2=0;
-            }
-
-            printf("%d ",M);
-        }
-        else if(cnt>2){
-            cnt2++;
-        }
-        N--;
-    }
-    printf("*");
-    return 0; 
+		for(int j=2; j<=M; j++){
+			if(M%j == 0){
+				cnt++;
+			}
+		}
+		if(cnt==1){
+			printf("%d ",M);
+		}
+		else{
+			printf("*\n");
+		}
+		cnt=0;
+	}
+  	return 0;
 }
 ```
 
@@ -282,112 +264,73 @@ int main(void){
 
 <img width="817" alt="스크린샷 2022-06-27 오후 3 50 27" src="https://user-images.githubusercontent.com/99342700/175877306-be0a9655-d70e-4908-9ee2-db9771817c94.png">
 
-1. 변수 지정.
-    - max,min값은 가장 작은 값과 가장 큰 값.
-    - new값은 temp에 바로 들어가므로 특수문자.
-2. 무한루프 반복문에서 temp에 이전 값 저장 후 새로운 new값 입력.
-3. 입력 범위가 알파벳 안에 있을 때 실행.
-    - 범위 밖일 시 temp값 변경.
-    - 조건에 맞을 시 min,max값 출력.
-4. 모든 소문자는 대문자로 바꾸어 비교.
-5. 조건문을 통해 가장 빠른 문자는 min에 저장 / 그 다음 빠른 문자는 max에 저장.
-    - 값 저장하기 전에 원래 소문자였으면 값을 다시 소문자로 변경 후 저장.
-6. 이전 값(temp)가 알파벳이고 현재 값(new)가 알파벳이 아닐 때 max,min값 출력.
+1. 입력 받을 변수와 비교 할 변수 등등 지정.
+    - 비교 할 first / second 는 초기값을 크게 잡아 최초 비교시 바로 값이 저장되게 설정.
+2. 이전 값인 temp가 알파벳이고 현재 값인 ch가 알파벳이 아닐 때 출력 및 변수 초기화.
+3. 입력 받은 문자가 알파벳인 경우에서 소문자인 경우에는 대문자로 바꾸어 대소 비교.
+4. 문자가 빠르면 소문자에서 대문자로 바뀌었는지 확인 후 바뀌었으면 비교값엔 대문자 출력값엔 소문자 저장.
+5. 바뀌지 않았으면 그대로 저장.
 
 ```c++
 #include <stdio.h>
-
 int main(void){
-    char new='*'; char max='A'; char min='Z'; char temp;
-    int cnt1=0; int cnt2=0; int cnt3=0;
+	char ch,temp; int al=0,dl=0; char first='Z'; char second='Z'; char one,two;
 
-    while(1){
-        temp = new;
-        scanf("%c",&new);
-        if(new == '!'){break;}
+	while(1){
+		al = 0;
+		temp = ch;
+		scanf("%c",&ch);
+		if(ch == '!'){return -1;}
 
-        if( (new >= 'A' && new <= 'Z') || (new >= 'a' && new <= 'z') ){
+		if( (temp >= 'A' && temp <='Z') || (temp >= 'a' && temp <= 'z') ){
+			if( (ch < 'A' || ch > 'Z') && (ch < 'a' || ch > 'z') ){
+				printf("%c%c\n",one,two);
+				first='Z';
+				second='Z';
+			}
+		}
 
-            if(new >= 'a' && new <= 'z'){
-                new = new - 32;
-                cnt1 = 1;
-            }
-            if(max >= 'a' && max <= 'z'){
-                max = max - 32;
-                cnt2 = 1;
-            }
-            if(min >= 'a' && min <= 'z'){
-                min = min - 32;
-                cnt3 = 1;
-            }
+		if( (ch >= 'A' && ch <= 'Z') || (ch >= 'a' && ch <= 'z')){
+			if(ch >= 'a' && ch <= 'z'){
+				ch = ch - 32;
+				al = 1;
+			}
 
-            if(min >= new){
-                if(min == new){
-                    if(cnt3 == 1){
-                        min = min + 32;
-                        cnt3 = 0;
-                    }
-                    max = min;
-                    min = new;
-                }
-                else if(min > new){
-                    if(cnt1 == 1){
-                        new = new + 32;
-                        cnt1 = 0;
-                    }
-                    if(cnt3 == 1){
-                        min = min + 32;
-                        cnt3 = 0;
-                    }
-                    max = min;
-                    min = new;
-                }
-            } // if (min >= new)    
-            else if(max >= new){
-                if(max == new){
-                    if(cnt3 == 1){
-                        min = min + 32;
-                        cnt3 = 0;
-                    }
-                    max = new;    
-                }
-                else if(max > new){
-                    if(cnt1 == 1){
-                        new = new + 32;
-                        cnt1 = 0;
-                    }
-                    if(cnt3 == 1){
-                        min = min + 32;
-                        cnt3 = 0;
-                    }
-                    max = new;
-                }
-            } // else if (max >= new)
-            else{
-                if(cnt2 == 1){
-                    max = max + 32;
-                }
-                if(cnt3 == 1){
-                    min = min + 32;
-                }
-            }         
-            cnt1=0;
-            cnt2=0;
-            cnt3=0;
-        } // 맨 처음 알파벳 범위 if문
-        
-        if( (temp >= 'A' && temp <= 'Z') || (temp >= 'a' && temp <= 'z') ) {
-            if((new >= 'A' && new <= 'Z') || (new >= 'a' && new <= 'z')){
-                continue;
-            }
-            else{
-               printf("%c%c\n",min,max);
-                min = 'Z';
-                max = 'A'; 
-            }
-        } // 마지막 if문
-    }
-    return 0;
+			if(first >= ch){
+				if(al == 1){
+					ch = ch + 32;
+					if(first == ch-32){
+						second = ch-32;
+						two = ch;
+					}
+					else{
+						second = first;
+						first = ch-32;
+						two = one;
+						one = ch;
+					}	
+				}
+				else{
+					second = first;
+					first = ch;
+					two = one;
+					one = ch;
+				}
+			}
+			else if(second >= ch){
+				if(al == 1){
+					ch = ch + 32;
+					second = ch-32;
+					two = ch;
+				}
+				else{
+					second = ch;
+					two = ch;
+				}
+			}
+		}
+	}
+  	return 0;
 }
 ```
 

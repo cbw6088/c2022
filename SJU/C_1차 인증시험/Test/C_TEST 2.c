@@ -1,34 +1,27 @@
 #include <stdio.h>
-
-void Solution(int new, int old){
-    int mul=1; int reverse=0;
-    printf("%d ",new);
-    
-    for(int i=new; i>0; i=i/10){
-    mul = mul * (i%10);
-    }
-    printf("%d ",mul);
-
-    while(mul>0){
-        reverse = reverse * 10;
-        reverse = reverse + mul%10;
-        mul = mul / 10;
-    }
-    printf("%d ",reverse);
-
-    printf("%d\n",new-old);
-    }
-
 int main(void){
-    int N=0; int M=0;
-    while(1){
-        M=N;
-        scanf("%d",&N);
-        if(N<M){
-            printf("End");
-            return -1;
-        }
-        Solution(N,M); 
-    }
-    return 0;
+	int N=0; int mul=1,re=0,sub=0;
+
+	while(1){
+		sub = N;
+		scanf("%d",&N);
+		if(N < sub){return -1;}
+		printf("%d ",N);
+
+		for(int i=N; i>0; i=i/10){
+			mul = mul * (i % 10);
+		}
+		printf("%d ",mul);
+
+		for(int i=mul; i>0; i=i/10){
+			re = re * 10;
+			re = re + i % 10;
+		}
+		printf("%d ",re);
+
+		printf("%d\n",N-sub);
+		mul = 1;
+		re = 0;
+	}
+  	return 0;
 }

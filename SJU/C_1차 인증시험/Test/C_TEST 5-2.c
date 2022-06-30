@@ -13,25 +13,25 @@ int main(void){
                         if( (i <= j && k >= j) || (i >= j && k <= j) ){
                             printf("%c%c%c\n",i,j,k);
                             if(i < T1){
-                            T=1;
-                            t1 = i;
-                            t2 = j;
-                            t3 = k;
-                        }
-                        else if(i == T1){
-                            if(j < T2){
+                                T=1;
                                 t1 = i;
                                 t2 = j;
                                 t3 = k;
                             }
-                            else if(j == T2){
-                                if(k < T3){
+                            else if(i == T1){
+                                if(j < T2){
                                     t1 = i;
                                     t2 = j;
                                     t3 = k;
                                 }
+                                else if(j == T2){
+                                    if(k < T3){
+                                        t1 = i;
+                                        t2 = j;
+                                        t3 = k;
+                                    }
+                                }
                             }
-                        }
                         }
                         
                     }
