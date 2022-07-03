@@ -115,3 +115,42 @@ int main(void){
     return 0;
 }
 ```
+
+
+
+### C_1차 모의고사 3.c
+‘*’가입력될때까지문자를%c로계속입력을받고,입력된문자들중에영문대문 자의 개수, 소문자의 개수, 숫자의 합, 그리고 그 이외문자들의 개수를 차례로 출력하는 프로그램 을 작성하시오. ‘*’는 입력으로 간주하지 않는다.
+
+<img width="346" alt="스크린샷 2022-07-03 오후 9 58 03" src="https://user-images.githubusercontent.com/99342700/177040777-ff828299-a37b-4c95-8d76-c31569e0fdbd.png">
+
+1. 필요한 변수 지정.
+2. 대/소문자 각각의 갯수, 숫자들의 합, 그 외의 문자 갯수를 조건문에 맞추어 연산.
+3. 각각 출력.
+
+```c++
+#include <stdio.h>
+
+int main(void){
+    char ch;
+	int Acnt=0,acnt=0,cnt=0,ccnt=0,add=0;
+	while(1){
+		scanf("%c",&ch);
+		if(ch == '*'){break;}
+
+		if(ch >= 'A' && ch <= 'Z'){
+			Acnt++;
+		}
+		else if(ch >= 'a' && ch <= 'z'){
+			acnt++;
+		}
+		else if(ch >= '1' && ch <= '9'){
+			add = add + ch-'0';
+		}
+		else{
+			ccnt++;
+		}
+	}
+	printf("%d %d %d %d",Acnt,acnt,add,ccnt);
+    return 0;
+}
+```
