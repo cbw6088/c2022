@@ -169,3 +169,48 @@ int main(void){
     return 0;
 }
 ```
+
+
+
+### C_과제 3-2.c
+1부터 20까지 정수를 배열 A[0]에서 A[19]에 순서대로 저장하고, 양의 정수 F(<20), R(F<R<20), M을 입력받아 A[F]부터 A[R]까지의 정수 중, A[R]부터 M개의 정수를 하나씩 오른쪽으로 이동시키는 프로그램을 작성하시오. M은 R-F+1보다 작은 수이다.
+
+<img width="788" alt="스크린샷 2022-07-06 오후 4 18 26" src="https://user-images.githubusercontent.com/99342700/177492631-bcf822db-61fb-48ea-8d6f-5dee5cabd900.png">
+
+1. 조건에 맞게 변수 지정.
+2. 범위 내의 인덱스 크기 구하기.
+3. 해당 인덱스 범위 내의 값들을 새로운 배열에 저장.
+4. 새롭게 저장한 배열을 기존 배열의 N부터 차례로 저장하고 출력.
+
+```c++
+#include <stdio.h>
+
+int main(void){
+    int arr[20] = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20}; 
+	int X[20] = {0};
+	int F=0,R=0,M=0,N=0,next=0,idx=0,cnt=0; 
+	scanf("%d %d %d",&F,&R,&M); 
+
+	N = R - M + 1;
+	next = R;
+
+	for(int i=N; i<=R; i++){
+		X[idx++] = arr[i]; 
+		cnt++; 
+	}
+	idx = cnt-1;
+
+	for(int i=N; i<=R; i++){
+		arr[i] = X[idx++]; 
+		if(idx == cnt){
+			idx = 0;
+		}
+	}
+
+	for(int i=0; i<20; i++){ 
+		printf("%d ",arr[i]);
+	}
+
+    return 0;
+}
+```
