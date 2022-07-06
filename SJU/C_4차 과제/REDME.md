@@ -214,3 +214,77 @@ int main(void){
     return 0;
 }
 ```
+
+
+
+### C_과제 4-3.c
+정수 N을 입력받고, N개의 정수 읽어 들여 1, 2단계 [ 문제 4-1 ] [ 문제 4-2 ]를 수 행한후, 결과로나온배열에다시2단계[문제4-2]를계속적용하여전체N개의정수중가 장 큰 수, 가장 작은 수가 남을 때 까지 반복하는 프로그램을 작성하시오.
+
+<img width="788" alt="스크린샷 2022-07-06 오후 4 18 26" src="https://user-images.githubusercontent.com/99342700/177605977-a841542b-3f49-4c36-8e0b-cc2e2de639ad.png">
+
+1. 각 변수 지정.
+2. 입력 받은 크기로 각 배열 변수 지정.
+3. 입력 받은 배열을 역순으로 출력.
+4. 각 최대/최소 변수에 배열의 첫 번째 인덱스 저장.
+5. 반복할 때 i는 3칸씩 이동.
+6. max변수에 가장 큰 값 저장.
+7. min변수에 가장 작은 값 저장.
+8. 배열에 최대/최소값 각각 저장 후 출력.
+
+```c++
+#include <stdio.h>
+
+int main(void){
+    int N=0,idx=0,cnt=0,M=0,max=0,min=0;
+	scanf("%d",&N);
+	int arr[N],temp[N],X[N],Y[N],max_cnt[N],min_cnt[N];
+
+	for(int i=0; i<N; i++){
+		scanf("%d",&arr[i]);
+		temp[i] = arr[i];
+	}
+
+	for(int i=N-1; i>=0; i--){
+		printf(" %d",arr[i]);
+	}
+	printf("\n");
+
+	while(1){
+		idx=0;
+		for(int i=0; i<N; i=i+3){
+			max = arr[i];
+			min = temp[i];
+			for(int j=i; j<i+3 && j<N; j++){
+				if(max < arr[j]){
+					max = arr[j];
+				}
+				if(min > temp[j]){
+					min = temp[j];
+				}
+			}
+			max_cnt[idx] = max;
+			min_cnt[idx] = min;
+			idx++;
+		}
+
+
+		for(int i=0; i<idx; i++){
+			printf(" %d",max_cnt[i]);
+		}
+		printf("\n");
+		for(int i=0; i<idx; i++){
+			printf(" %d",min_cnt[i]);
+		}
+		printf("\n");
+		N = idx;
+		if(N == 1){
+			break;
+		}
+		for(int i=0; i<N; i++){
+			arr[i] = max_cnt[i];
+			temp[i] = min_cnt[i];
+		}
+	}
+	return 0;
+}
+```
