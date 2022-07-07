@@ -71,9 +71,6 @@ int main(void){
 				F[j+1] = min;
 			}
 		}
-		// G[idx5++] = min;
-		// F[n] = 99999999;
-		// min = 100000000;
 	}
 
 	for(int i=0; i<idx4; i++){

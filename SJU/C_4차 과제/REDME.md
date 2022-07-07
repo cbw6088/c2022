@@ -288,3 +288,104 @@ int main(void){
 	return 0;
 }
 ```
+
+
+
+### C_과제 5-2.c
+두 집합 A, B 의 원소를 합쳐서 합집합을 만들려고 한다. 두 집합의 원소는 각각 음 수가 입력될 때까지의 원소이다. 문제 5-1처럼 중복된 원소가 입력될 수 있고 이 때는 집합에 추 가되지 않아야 한다. 합집합은 두 집합이 합쳐 진 후 정렬을 하여 오름차순으로 출력한다.
+각 줄에서, 음수를 제외하고 최대 100개의 정수가 입력된다.
+
+<img width="697" alt="스크린샷 2022-07-07 오후 7 03 15" src="https://user-images.githubusercontent.com/99342700/177748308-cf2affc1-157a-475d-95c6-e1e23240b4f5.png">
+
+1. 필요한 배열 및 변수 지정.
+2. 종료조건 전까지 입력받고 입력받은 값은 A,B배열에 저장.
+3. 현재 위치부터 0인덱스까지 비교하며 같은 경우가 자기 자신 밖에 없을 때 새로운 배열에 저장.(반복된 수 제거)
+4. 반복 제거한 두 배열을 하나의 배열로 합치기.
+5. 합친 배열에 반복값이 있는지 확인하고 반복된 수는 제외하고 새로운 배열에 저장.
+6. 가장 작은 수 부터 정렬하며 오름차순으로 저장.
+7. 해당 배열 출력.
+
+```c++
+#include <stdio.h>
+
+int main(void){
+    int A[101],B[101],C[101],D[101],E[202],F[101],G[101];
+	int idx=0,idx2=0,idx3=0,idx4=0,idx5=0,cnt=0,num1=0,num2=0,add=0,min=99999999,n=0,temp=0;
+
+	while(1){
+		scanf("%d",&temp);
+		if(temp < 0){break;}
+		A[num1++] = temp;
+	} 
+	
+	while(1){
+		scanf("%d",&temp);
+		if(temp < 0){break;}
+		B[num2++] = temp;
+	}
+
+	for(int i=0; i<num1; i++){
+		for(int j=i; j>=0; j--){
+			if(A[i] == A[j]){
+				cnt++;
+			}
+		}
+		if(cnt==1){
+			C[idx++] = A[i]; 
+		}
+		cnt=0;
+	}
+	cnt=0;
+	for(int i=0; i<num2; i++){
+		for(int j=i; j>=0; j--){
+			if(B[i]==B[j]){
+				cnt++;
+			}
+		}
+		if(cnt==1){
+			D[idx2++] = B[i];
+		}
+		cnt=0;
+	}
+	cnt=0;
+
+	add = idx + idx2;
+
+	for(int i=0; i<idx; i++){
+		E[idx3++] = C[i]; 
+	}
+
+	for(int i=0; i<idx2; i++){
+		E[idx3++] = D[i];
+	}
+
+	for(int i=0; i<add; i++){
+		for(int j=i; j>=0; j--){
+			if(E[i] == E[j]){
+				cnt++;
+			}
+		}
+		if(cnt == 1){
+			F[idx4++] = E[i];
+		}
+		cnt=0;
+	}
+
+	for(int i=0; i<idx4; i++){
+		for(int j=0; j<idx4-1; j++){
+			if(F[j] > F[j+1]){
+				min = F[j];
+				F[j] = F[j+1];
+				F[j+1] = min;
+			}
+		}
+	}
+
+	for(int i=0; i<idx4; i++){
+		printf("%d ",F[i]);
+	}
+
+
+	return 0;
+}
+```
