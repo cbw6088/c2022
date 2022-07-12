@@ -307,3 +307,96 @@ int main(void){
 	return 0;
 }
 ```
+
+
+
+### C_2차 모의고사 5-3
+종료 조건 시까지 정수 N을 반복해서 입력받아, 아래의 작업을 순차적으로 수행하는 프로그램을 작성하시오. 정수 N은 최대 9자리 수라고 가정한다.
+- 종료 조건: 음수 입력 (입력된 음수에 대해서는 아래 작업을 수행하지 않음)
+1) [ 문제 5-1 ]의 reverse_num()함수를 이용하여 정수 N을 거꾸로 변경한다. (출력은 안함)
+2) 1단계 결과로 만들어진 정수에 대해, [ 문제 5-2 ]의 del_dupnum()함수를 이용하여 중복된
+숫자들을 제외한 정수 M을 만들어 main함수에서 출력한다.
+3) 입력된 정수 N과 1, 2단계를 거쳐 만들어진 정수 M의 차이가 가장 큰 수를 찾아 입력 정수 N과 함께 그 차이를 main함수에서 출력한다. N과 M의 차이는 N-M의 절대값으로 계산한다. 만일 차이가 같은 경우가 있으면 제일 먼저 입력된 정수와 차이를 출력한다.
+4) 함수원형선언을 하여, reverse_num() 함수와 del_dupnum() 함수의 정의는 main함수 뒤에 오 도록 작성 한다.
+
+<img width="824" alt="image" src="https://user-images.githubusercontent.com/99342700/178408799-c6b52271-572e-4e19-94dd-0694e80f2e19.png">
+
+1. 원형 함수 지정 및 변수 지정.
+2. reverse_num함수를 이용하여 입력 받은 값을 뒤집기.
+3. del_dupnum함수를 이용하여 뒤집은 값에 중복되는 값 제거.
+	- 중복 제거는 공식처럼 암기.
+4. 해당 값 순차적으로 출력.
+5. 입력 받은 값과 뒤집은 값의 차이가 가장 많이나는 값을 저장하고 초기 값과 뺀 값을 절대값으로 출력.
+
+```c++
+#include <stdio.h>
+
+int reverse_num(int x);
+int del_dupnum(int x);
+int main(void){
+	int N=0,M=0,re=0,num=0,idx=0,result=0,max=0,sub=0,a=0,idx2=0;
+	int arr[100]={0}; int x[100];
+	while(1){
+		scanf("%d",&N);
+		if(N < 0)break;
+
+		re = reverse_num(N);
+		M = del_dupnum(re);
+
+		x[idx2++] = M;
+
+		num = N - M;
+		result = num > 0 ? N-M : M-N;
+
+		if(max < result){
+			max = result;
+			a = N;
+			sub = result;
+		}
+	}
+	for(int i=0; i<idx2; i++){
+		printf(" %d",x[i]);
+	}
+	printf("\n");
+	printf("%d %d",a, sub);
+	return 0;
+}
+
+int reverse_num(int x){
+	int re=0;
+	for(int i=x; i>0; i=i/10){
+		re = re * 10;
+		re = re + i % 10;
+	}
+	return re;
+}
+
+int del_dupnum(int x){
+	int a[100],b[100],c[100];
+	int idx=0,cnt=0,idx2=0,result=0;
+	for(int i=x; i>0; i=i/10){
+		a[idx++] = i%10;
+	}
+	for(int i=0; i<idx; i++){
+		c[i] = a[idx-1-i];
+	}
+
+	for(int i=0; i<idx; i++){
+		for(int j=i; j>=0; j--){
+			if(c[i] == c[j]){
+				cnt++;
+			}
+		}
+		if(cnt == 1){
+			b[idx2++] = c[i];
+		}
+		cnt=0;
+	}
+	for(int i=0; i<idx2; i++){
+		result = result * 10;
+		result = result + b[i];
+	}
+	return result;
+}
+
+```
