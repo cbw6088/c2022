@@ -9,6 +9,10 @@
 
 <img width="838" alt="image" src="https://user-images.githubusercontent.com/99342700/178638957-1df01256-b5e1-449b-997e-44f9a867421f.png">
 
+1. 필요한 변수와 배열 지정.
+2. 배열에 N의 정수 크기만큼 값 저장.
+3. 저장된 정수의 개수가 짝수이면 내림차순 공식 사용.
+4. 저장된 정수의 개수가 홀수이면 오름차순 공식 사용.
 
 ```c++
 #include <stdio.h>
