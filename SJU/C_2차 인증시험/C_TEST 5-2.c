@@ -79,3 +79,15 @@ int del_digit(int N,int T){
 	}
 	return temp;
 }
+
+for(int i=cnt; i>0; i--){
+    int pow = 10;
+    if(i-1 == 0)pow = 1;
+    for(int j=1; j<j-1; j++){
+        pow = pow * 10;
+    }
+    if(i != T){
+        temp = temp * 10;
+        temp = temp + (N/pow)%10;
+    }
+}

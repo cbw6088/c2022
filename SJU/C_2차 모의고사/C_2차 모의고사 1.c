@@ -7,9 +7,6 @@ int main(void){
 	for(int i=0; i<N; i++){
 		scanf("%d",&X[i]);
 	}
-	// for(int i=0; i<N; i++){
-	// 	printf("%d ",X[i]);
-	// }
 
 	for(int i=0; i<N; i++){
 		for(int j=i; j>=0; j--){
@@ -22,10 +19,6 @@ int main(void){
 		}
 		ccnt=0;
 	}
-
-	// for(int i=0; i<num; i++){
-	// 	printf("%d ",Z[i]);
-	// }
 
 	for(int i=0; i<N; i++){
 		for(int j=i+1; j<N; j++){
@@ -45,7 +38,6 @@ int main(void){
 		check = 0;
 	}
 	
-
 	for(int i=0; i<num; i++){
 		printf("%d %d\n",Z[i],Y[i]+1);
 	}

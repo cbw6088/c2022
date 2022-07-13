@@ -1,62 +1,56 @@
 #include <stdio.h>
-#include <stdlib.h>
 
-#define MAX_SIZE 1000
-#define MAX_INT 210000000
+int max_num(int N1,int N2);
+int min_num(int N1,int N2);
 
-int max_num(int N1, int N2);
-int min_num(int N1, int N2);
-void P(int A[], int idx);
+int main(void){
+	int N=0,idx=0,S=0,E=0,T=0,cnt=0,temp=0;
+	int A[100],B[100];
+	int temp_max, temp_min;
+	while(1){
+		scanf("%d",&N);
+		if(N == 0)break;
+		A[idx++] = N;
+	}
+	scanf("%d",&T);
+	for(int i=0; i<T; i++){
+		int max=0,min=1000000000;
+		scanf("%d %d",&S,&E);
+		cnt = E - S;
+		cnt = cnt / 2;
 
+		for(int i=0; i<=cnt; i++){
+			temp = A[S+i];
+			A[S+i] = A[E-i];
+			A[E-i] = temp;
+			temp_max = max_num(A[S+i],A[E-i]);
+			temp_min = min_num(A[S+i],A[E-i]);
+			if(max <= temp_max){max = temp_max;}
+			if(min >= temp_min){min = temp_min;}
+		}
 
-int main(){
-    //freopen("input.txt", "r", stdin);
-    int idx = 0;
-    int A[MAX_SIZE];
-    while(1){
-        int temp = 0;
-        scanf("%d",&temp);
-        if(temp == 0){break;}
-        A[idx++] = temp;
-    }
-
-    int changeNum = 0;
-    scanf("%d", &changeNum);
-
-    for(int i=0; i<changeNum; i++){
-        int N1,N2 = 0;
-        scanf("%d %d", &N1, &N2);
-
-        int temp = (N2-N1)/2;
-        // printf("%d ",temp );
-        int max = 0;
-        int min = MAX_INT;
-        for(int i=0; i<=temp; i++){
-            int Swap = A[N1+i];
-            A[N1+i] = A[N2-i];
-            A[N2-i] = Swap;
-            int temp_max = max_num(A[N1+i], A[N2-i]);
-            int temp_min = min_num(A[N1+i], A[N2-i]);
-            if(max <= temp_max){max = temp_max;}
-            if(min >= temp_min){min = temp_min;}
-        }
-        P(A,idx);
-        printf("%d %d \n", max, min);
-    }//swap
-    
-    return 0;
+		for(int i=0; i<idx; i++){
+			printf("%d ",A[i]);
+		}
+		printf("\n%d %d\n",max,min);
+	}
+	return 0;
 }
 
-int max_num(int N1, int N2){
-    return N1>=N2?N1:N2;
+int max_num(int N1,int N2){
+	if(N1 >= N2){
+		return N1;
+	}
+	else{
+		return N2;
+	}
 }
 
 int min_num(int N1, int N2){
-   return N1>=N2?N2:N1;
-}
-
-void P(int A[], int idx){
-    for(int i=0; i<idx; i++)
-        printf("%d ",A[i]);
-    printf("\n");
+	if(N1 <= N2){
+		return N1;
+	}
+	else{
+		return N2;
+	}
 }
