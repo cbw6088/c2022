@@ -78,3 +78,82 @@ int main(void){
 	return 0;
 }
 ```
+
+
+
+### C_TEST 2.2.c
+정수 N과 M을 입력받고, N개의 양의 정수를 입력받아 배열에 저장한다. 단, 1≦N≦100이고, 1≦M≦N이다.
+(1) 배열에 저장된 정수를 앞에서부터 M개씩 묶어서, M개 정수의 평균값보다 크거나 같은 정수를
+차례로 출력한다.
+(2) 배열에 저장된 정수를 앞에서부터 M개씩 묶어서, M개 정수 중 가장 큰 수를 차례로 출력한 다.
+(3) 배열에 저장된 정수를 앞에서부터 M개씩 묶어서, M개 정수 중 가장 작은 수를 차례로 출력한 다.
+(4) 배열의 원소를 M개씩 묶고, 마지막 남은 원소의 개수가 M보다 작은 경우, 남은 원소의 평균 보다 크거나 같은 정수, 가장 큰 수, 가장 작은 수를 출력한다. 마지막 남은 원소가 한 개인 경우, 이 원소값이 최대값이자 최소값이 된다.
+
+<img width="846" alt="image" src="https://user-images.githubusercontent.com/99342700/178883321-c79ce229-5224-493a-940f-8fde6e63e3be.png">
+
+1. 필요한 변수 및 배열 지정.
+2. 평균값 연산을 이용하여 평균값보다 큰거나 같은 정수 출력.
+3. 조건문을 이용하여 0으로 저장한 max값 보다 클 경우 max에 저장하여 출력.
+4. 조건문을 이용하여 큰 값으로 저장한 min값 보다 작은 경우 min에 저장하여 출력.
+
+```c++
+#include <stdio.h>
+
+int main(void){
+	int N=0,M=0,max=0,min=110,idx=0,idx2=0,cnt=0;
+	double avg=0,add=0;
+	scanf("%d %d",&N,&M);
+	int X[N],Y[N],max_cnt[N],min_cnt[N];
+	for(int i=0; i<N; i++){
+		scanf("%d",&X[i]);
+	}
+
+	for(int i=0; i<N; i=i+M){
+		for(int j=i; j<i+M && j<N; j++){
+			add = add + X[j];
+			cnt++;
+		}
+		avg = add / cnt;
+
+		for(int k=i; k<i+M && k<N; k++){
+			if(avg <= X[k]){
+				Y[idx++] = X[k];
+			}
+		}
+		cnt=0;
+		add=0;
+		avg=0;
+	}
+
+	for(int i=0; i<idx; i++){
+		printf("%d ",Y[i]);
+	}
+	printf("\n");
+
+	for(int i=0; i<N; i=i+M){
+		max = X[i];
+		min = X[i];
+		for(int j=i; j<i+M && j<N; j++){
+			if(max <= X[j]){
+				max = X[j];
+			}
+			if(min >= X[j]){
+				min = X[j];
+			}
+		}
+		max_cnt[idx2] = max;
+		min_cnt[idx2++] = min;
+	}
+
+	for(int i=0; i<idx2; i++){
+		printf(" %d",max_cnt[i]);
+	}
+	printf("\n");
+	for(int i=0; i<idx2; i++){
+		printf(" %d",min_cnt[i]);
+	}
+	return 0;
+}
+
+```
+
