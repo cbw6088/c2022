@@ -389,3 +389,144 @@ int main(void){
 	return 0;
 }
 ```
+
+
+
+### C_TEST 5-2.c
+회문수(palindromic number)는 순서대로 읽은 수와 거꾸로 읽은 수가 일치 하는 수를 말한다. 즉, 회문수는 대칭인 수를 의미하며, 예를 들어 34543은 회문수이고, 34567은 회문수가 아니다.
+
+(1) 양의 정수 N과 삭제할 자릿수를 나타내는 정수 T를 입력받는다. N은 최대 9자리 정수이고, T 는 (N의 전체 자릿수)/2 보다 작거나 같다. 즉, N이 7자리 정수일 경우, T는 1, 2 또는 3이다.
+
+(2) reverse_num 함수를 호출하여, N의 각 자릿수를 역순으로 하여 만든 정수를 반환받고, is_palindromic 함수를 호출하여, N이 회문수인지 판단한다.
+
+(3) del_digit 함수를 호출하여, N이 회문수이면, N에서 오른쪽으로부터 T번째 자릿수와 T와 대칭 되는 곳에 위치한 자릿수를 삭제한 정수를, N이 회문수가 아니면, N에서 오른쪽으로부터 T번째 자릿수만 삭제된 정수를 반환받는다. 여기서 자릿수는 정수의 오른쪽부터 센다. 즉, 일의 자리가 1 번째 자리, 십의 자리가 2번째 자리, ... 이다.
+예시 1) N=34543, T=1이면, 1번째와 5번째 자리의 숫자 3을 모두 삭제한 454를 반환 예시 2) N=345543, T=3이면, 3번째와 4번째 자리의 숫자 5를 모두 삭제한 3443을 반환 예시 3) N=34567, T=1이면, 1번째 자리의 숫자 7을 삭제한 3456을 반환
+
+(4) 정수 N과 N을 거꾸로 읽은 수 M, 그리고 N이 회문수 인지 여부를 나타내는 1 또는 0(N이 회 문수이면 1, 회문수가 아니면 0)과 N에서 T번째 자릿수(N이 회문수이면, T와 대칭되는 곳의 자릿수도 포함)를 삭제한 수를 차례로 main 함수에서 화면에 출력한다.
+
+(5) main 함수 위에 함수원형선언을 하고, 함수의 정의는 main함수 아래에 오도록 작성 한다.
+
+- reverse_num 함수
+◦ 함수 원형 : int reverse_num(int N)
+◦ 인자 : 정수 N
+◦ 반환 값 : 정수 N의 각 자릿수의 숫자를 역순으로 하여 만든 정수를 반환
+- is_palindromic 함수
+◦ 함수 원형 : int is_palindromic(int N)
+◦ 인자 : 정수 N
+◦ 반환값 : N이 회문수이면 1을, 그렇지 않으면 0을 반환
+◦ N의 회문 여부를 판단하기 위해, reverse_num 함수를 호출하여 사용한다.
+- del_digit 함수
+◦ 함수 원형 : int del_digit(int N, int T)
+◦ 인자 : 정수 N과 T
+◦ 반환값 : N이 회문수이면, N의 T번째 자릿수와 T번째 자리와 대칭되는 자릿수를 삭제한
+수를, N이 회문수가 아니면, N의 T번째 자릿수만 삭제한 수를 반환한다.
+◦ N의 회문 여부를 판단하기 위해 is_palindromic 함수를 호출하여 사용한다.
+
+<img width="864" alt="스크린샷 2022-07-18 오전 1 15 35" src="https://user-images.githubusercontent.com/99342700/179411040-4fa8a4ba-f88c-43cd-af58-ed08f40fa34a.png">
+
+1. 함수 원형 선인 및 변수 지정.
+2. 입력 받은 값 출력 및 역수로 만들어주는 함수 지정 후 출력.
+    - 역수 공식 이용.
+3. 회문수인지 판단.
+    - 뒤집은 값이 N과 같으면 1 반환 아니면 0 반환.
+4. 회문수인 경우 앞 뒤로 T의 자릿수 삭제.
+    - T의 자릿수일 때 계산 건너뛰기.
+5. 회문수가 아닌경우 뒤만 부터 T의 자릿수 삭제.
+    - 해당 공식 암기.
+6. 회문수인지 판단 및 자릿수를 제거한 값 출력.
+
+```c++
+#include <stdio.h>
+
+int reverse_num(int N);
+int is_palindromic(int N);
+int del_digit(int N,int T);
+
+int main(void){
+	int N=0,T=0,re=0,num=0;
+	scanf("%d",&N);
+	scanf("%d",&T);
+
+	printf("%d ",N);
+
+	re = reverse_num(N);
+
+	printf("%d ",re);
+
+	printf("%d ",is_palindromic(N));
+
+	printf("%d ",del_digit(N,T));
+
+	return 0;
+}
+
+int reverse_num(int N){
+	int re=0;
+	for(int i=N; i>0; i=i/10){
+		re = re * 10;
+		re = re + i % 10;
+	}
+	//printf("%d",re);
+	return re;
+}
+
+int is_palindromic(int N){
+	int re=0;
+	re = reverse_num(N);
+	if(re == N){
+		return 1;
+	}
+	else{
+		return 0;
+	}
+}
+
+int del_digit(int N,int T){
+	int temp=N,cnt=0;
+	while(temp){
+		temp = temp / 10;
+		cnt++;
+	}
+	if(is_palindromic(N) == 1){
+		for(int i=0; i<cnt; i++){
+			if(i+1 == T){
+				N = N /10;
+			}                           
+			else if(cnt-i == T){
+				N = N /10;
+			}
+			else{
+				temp = temp * 10;
+				temp = temp + N % 10;
+				N = N /10;
+			}
+		}	
+	}
+	else{
+		for(int i=cnt; i>0; i--){
+        	int pow=10; // 10설정  
+            	if(i-1 == 0)pow=1; 
+            	for(int j=1; j<i-1; j++)
+                	pow = pow * 10;
+             	// 제곱 계산
+			if(i != T){ 
+            	temp = temp * 10;
+				temp = temp + (N/pow)%10;     
+			} // 타겟 제외 추가
+		}
+	}
+	return temp;
+}
+
+for(int i=cnt; i>0; i--){
+    int pow = 10;
+    if(i-1 == 0)pow = 1;
+    for(int j=1; j<j-1; j++){
+        pow = pow * 10;
+    }
+    if(i != T){
+        temp = temp * 10;
+        temp = temp + (N/pow)%10;
+    }
+}
+```
