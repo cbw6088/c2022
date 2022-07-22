@@ -156,3 +156,80 @@ int min_num(int N1, int N2){
 	}
 }
 ```
+
+
+
+### C_과제 3.c
+세 정수 N, M, K를 입력받아 N부터 M까지의 수중에서 
+
+(1) K의 배수 이면, 해당 수의 각 자릿수 중 최대값을 구하고
+
+(2) K의 배수가 아니면, K로 나눈 나머지 중에서 최대값을 구한 후
+
+(1) 과 (2) 중에서 제일 큰 수를 출력하시오.
+
+-multiple, maximum, digit_maximum 세 개의 함수를 사용하여 작성하시오. 1 < N < M < 1000 이고, 1 < K < 1000 이다.
+- multiple 함수의 정의 및 사용
+◦ 인자: 정수 x와 정수 y
+◦ 반환형: int
+◦ 반환값: 정수 x가 정수 y의 배수이면 1, 아니면 0을 return
+- maximum 함수의 정의 및 사용
+◦ 인자: 정수 x와 정수 y
+◦ 반환형: int
+◦ 반환값: 정수 x와 정수 y 중 큰 수를 return
+- digit_maximum 함수의 정의 및 사용
+◦ 인자는 정수 x
+◦ 반환형: int
+◦ 반환값: 정수 x의 각 자릿수를 계산하고 maximum 함수를 이용하여 그 중 가장 큰 수를
+계산하고 return
+
+1. 원형함수 및 변수 지정.
+2. 입력받은 N부터 M의 값이 K의 배수인지 알아보는 함수 설정.
+3. 배수일 시 더 큰 값을 반환해주는 함수를 각 자릿수 중 가장 큰 값을 저장하는 함수에 저장.
+4. 배수가 아닐 시 K로 나눈 값 중 나머지가 가장 큰 값을 MAX값에 저장.
+5. 출력할 때 가장 큰 값을 비교하는 맥시멈 함수를 이용하여 출력.
+
+```c++
+#include <stdio.h>
+
+int multiple(int x,int y);
+int maximum(int x,int y);
+int digit_maximum(int x);
+
+int main(void){
+	int N=0,M=0,K=0,idx=0,max=0,temp=0,MAX=0,digit_max=0;
+	int X[100];
+	scanf("%d %d %d",&N,&M,&K);
+
+	for(int i=N; i<=M; i++){
+		if(multiple(i,K) == 1){
+			temp = digit_maximum(i);
+			digit_max = maximum(digit_max,temp);
+		}
+		else{
+			temp = i % K;
+			MAX = maximum(MAX,temp);
+		}
+	}
+
+	printf("%d",maximum(digit_max,MAX));
+	return 0;
+}
+
+int multiple(int x,int y){
+	return x%y==0;
+}
+
+int maximum(int x,int y){
+	return x<=y ? y : x;
+}
+
+int digit_maximum(int x){
+	int max=0,temp=0;
+	for(int j=x; j>0; j=j/10){
+		temp = j % 10;
+		max = maximum(max,temp);
+	}
+	return max;
+}
+```
