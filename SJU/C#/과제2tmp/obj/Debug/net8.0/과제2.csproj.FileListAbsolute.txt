@@ -1,0 +1,15 @@
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/bin/Debug/net8.0/과제2
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/bin/Debug/net8.0/과제2.deps.json
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/bin/Debug/net8.0/과제2.runtimeconfig.json
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/bin/Debug/net8.0/과제2.dll
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/bin/Debug/net8.0/과제2.pdb
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/obj/Debug/net8.0/과제2.csproj.AssemblyReference.cache
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/obj/Debug/net8.0/과제2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/obj/Debug/net8.0/과제2.AssemblyInfoInputs.cache
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/obj/Debug/net8.0/과제2.AssemblyInfo.cs
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/obj/Debug/net8.0/과제2.csproj.CoreCompileInputs.cache
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/obj/Debug/net8.0/과제2.dll
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/obj/Debug/net8.0/refint/과제2.dll
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/obj/Debug/net8.0/과제2.pdb
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/obj/Debug/net8.0/과제2.genruntimeconfig.cache
+/Users/choebyeong-u/Git/CBW/SJU/C#/과제2/obj/Debug/net8.0/ref/과제2.dll

@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/choebyeong-u/Git/CBW/SJU/C#/과제1/test.csproj": {}
+  },
+  "projects": {
+    "/Users/choebyeong-u/Git/CBW/SJU/C#/과제1/test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/choebyeong-u/Git/CBW/SJU/C#/과제1/test.csproj",
+        "projectName": "test",
+        "projectPath": "/Users/choebyeong-u/Git/CBW/SJU/C#/과제1/test.csproj",
+        "packagesPath": "/Users/choebyeong-u/.nuget/packages/",
+        "outputPath": "/Users/choebyeong-u/Git/CBW/SJU/C#/과제1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/choebyeong-u/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-preview.1.23115.2/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
