@@ -15,7 +15,6 @@ int main(){
       int *p = ar; // 포인터와 배열 선언 및 연결
       int *p_max, *p_min; // max, min 인덱스 주소를 가리킬 포인터
       
-
       while(1){ // 무한루프 (조건문으로 종료)
          scanf("%d",p);
          if(*p == 0)break; // 포인터의 값이 0이 되면 종료
