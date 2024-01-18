@@ -21,8 +21,8 @@ typedef struct list {
 }List;
 
 /*원형 함수 선언*/
-void initNode(List* list);
 Node* getNode(char group, int elem);
+void initNode(List* list);
 void addShare(List* list, int elem, char group);
 void removeShare(List* list, int elem, char group);
 void groupView(List* list, int elem);
