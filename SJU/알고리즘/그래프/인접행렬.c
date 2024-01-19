@@ -86,6 +86,7 @@ void modifyWeight(GRAPH *graph, int nodeA, int nodeB, int weight) {
 		printf("-1\n");
 		return;
 	}
+	
 	modifyEdge(graph, nodeA, nodeB, weight);
 	addEdge(graph, nodeA, nodeB, weight);
 }

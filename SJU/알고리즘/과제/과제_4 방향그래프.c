@@ -17,7 +17,6 @@ unsigned int memo[MAX][MAX];
 int main(void){
     int A[MAX], H[MAX]; // 배열 A와 H 선언
     memset(memo, MIN_VALUE, sizeof(memo)); //  배열 초기화
-
     /*배열 A와 H 초기화*/
     A[0] = 0, A[1] = 1;
     for (int i = 2; i < MAX; i++)
