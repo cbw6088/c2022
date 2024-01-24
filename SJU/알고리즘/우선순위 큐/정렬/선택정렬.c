@@ -15,6 +15,7 @@ int main() {
 			if(ar[idx] < ar[j])
 				idx = j;
 		}
+		
 		tmp = ar[idx];
 		ar[idx] = ar[i];
 		ar[i] = tmp;	
