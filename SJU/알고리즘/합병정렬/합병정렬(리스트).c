@@ -17,7 +17,6 @@ NODE *merge(NODE *p1, NODE *p2);
 int main() {
 	int n;
 	scanf("%d", &n);
-
 	NODE *list = init(n);
 	list = mergeSort(list, n);
 	for (NODE *cur = list; cur; cur = cur->next) 
