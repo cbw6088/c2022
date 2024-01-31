@@ -14,7 +14,6 @@ int main(){
 		scanf("%d", &ar[i]);
 
 	printf("%d",binSearch(ar, key, n));
-
 	free(ar);
 	return 0;
 }
