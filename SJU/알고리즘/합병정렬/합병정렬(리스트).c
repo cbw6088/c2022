@@ -67,6 +67,7 @@ NODE *merge(NODE *p1, NODE *p2) {
 			right = right->next;
 		}
 	}
+	
 	tmp = tmp2->next;
 	free(tmp2);
 	return tmp;
