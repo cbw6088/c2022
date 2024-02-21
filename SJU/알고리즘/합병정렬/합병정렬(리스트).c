@@ -55,7 +55,7 @@ NODE *partition(NODE *std, int k) {
 NODE *merge(NODE *p1, NODE *p2) {
 	NODE *tmp, *tmp2;
 	tmp2 = (NODE *)malloc(sizeof(NODE));
-	tmp = tmp2
+	tmp = tmp2;
 
 	for (NODE *left = p1, *right = p2; left != NULL || right != NULL; tmp = tmp->next) {
 		if (right == NULL || (left != NULL && left->data < right->data)) {
