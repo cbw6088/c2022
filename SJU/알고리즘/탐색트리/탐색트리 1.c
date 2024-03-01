@@ -8,7 +8,6 @@ typedef struct tree {
 	int key;
 	struct tree *lChild, *rChild, *parent;
 }NODE;
-
 bool isExternal();
 bool isInternal();
 bool isRoot();
