@@ -1,15 +1,6 @@
-14
-push 1
-push 2
-top
-size
-empty
-pop
-pop
-pop
-size
-empty
-pop
-push 3
-empty
-top
+5
+3 4
+1 1
+-8431 43514
+1000000 -100000
+3 3
