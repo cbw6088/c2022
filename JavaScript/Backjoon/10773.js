@@ -1,7 +1,7 @@
 const fs = require('fs');
 const filename = "JavaScript/Backjoon/input.txt"
 const valueData = fs.readFileSync(filename, "utf8").toString().trim().split("\n");
-// const valueData = fs.readFileSync('/dev/stdin','utf-8').toString().trim().split('\n')
+//const valueData = fs.readFileSync('/dev/stdin','utf-8').toString().trim().split('\n')
 
 const cnt = parseInt(valueData[0]);
 
