@@ -1,19 +1,29 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>CSS3 Property Basic</title>
+        <title>CSS3 Font Property</title>
         <style>
-        .box {
-            border-width: thick;
-            border-style: dashed;
-            border-color: black;
-            border-radius: 50px 40px 20px 10px;
-        }
+            .font_big { font-size: 2em; }
+            .font_italic { font-style: italic; }
+            .font_bold { font-weight: bold; }
+            .font_center { text-align: center; }
+            .font_under {text-decoration: none;}
+            .button {
+                width: 150px;
+                height: 70px;
+                background-color: #4099ad;
+                border: 10px solid #FFFFFF;
+                border-radius: 30px;
+                box-shadow: 5px 5px 5px #A9A9A9;
+            }
+            .button > a {
+                display: block;
+            }
         </style>
     </head>
-        <body>
-        <div class="box">
-            <h1>Lorem ipsum dolor amet</h1>
+    <body>
+        <div class="button">
+            <a href="#" class="font_big font_italic font_bold font_center font_under">Click</a>
         </div>
     </body>
 </html>
