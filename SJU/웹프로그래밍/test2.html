@@ -1,19 +1,68 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <meta charset="utf-8">
+        <title>Login</title>
+        <style>
+            .login_background{
+                width: 300px;
+                height: 160px;
+                background-color: rgb(59, 67, 59);
+            }
+            .title_text{
+                font-style: inherit;
+            }
+            .title_big{text-align: left;}
+            .input_style{
+                width: 200px;
+                height: 20px;
+                margin: 3px 3px;
+                margin-left: 80px;
+                border-radius: 10px;
+            }
+            .button_style{
+                width: 200px;
+                height: 20px;
+                text-align: center;
+                margin: 3px;
+                border-radius: 10px;
+                background-color: white;
+            }
+            .input_posision{
+                margin-left: 80px;
+            }
+            .button_posision{
+                margin-left: 80px;
+            }
+            .text_id{
+                margin-left: 15px;
+                margin-top: 7px;
+                position: absolute;
+            }
+            .text_pw{
+                margin-left: 10px;
+                margin-top: 40px;
+                position: absolute;
+            }
+        </style>
+    </head>
     <body>
-        <table border="1">
-            <tr><th colspan="2">나라와 도시</th></tr>
-            <tr><th rowspan="3">중국</th>
-            <td>정산소종</td></tr>
-            <tr><td>기문</td></tr>
-            <tr><td>운남</td></tr>
-            <tr>
-                <th rowspan="4">인도 및 스리랑카</th>
-                <td>아삼</td>
-            </tr>
-            <tr><td>실론</td></tr>
-            <tr><td>다질링</td></tr>
-            <tr><td>닐기리</td></tr>
-        </table>
+        <div class="login_background">
+            <!-- 제목 -->
+            <h1 class="title_big title_text">간단한 입력양식</h1>
+            <!-- ID / PW -->
+            <div>
+                <h4 class="text_id">아이디</h4>
+                <h4 class="text_pw">비밀번호</h4>
+                <form>
+                    <input class="input_style" name="id">
+                    <input class="input_style" name="password">
+                </form>
+            </div>
+            <!-- BTN -->
+            <a href="#" class="button_posision">
+                <button class="button_style">제출</button>
+            </a>
+        </div>
     </body>
 </html>
