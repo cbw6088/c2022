@@ -1,0 +1,666 @@
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Form1.resources
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\h9910\source\repos\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Form1.resources
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\siriu\Documents\카카오톡 받은 파일\ParkingManagementApp\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Form1.resources
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Users\siriu\Desktop\학교 파일\7. 4학년 1학기\2. 수업자료\C#프로그래밍\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Form1.resources
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\gupury\Documents\카카오톡 받은 파일\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Form1.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_reset\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Form1.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 정주완\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Form1.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\gupury\Desktop\ParkingManagementApp_ing\ParkingManagementApp_수정 유명주\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.FindForm.resources
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Form1.resources
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.PayForm.resources
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\KMUCS\Desktop\새 폴더 (3)\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.FindForm.resources
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Form1.resources
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.PayForm.resources
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\KMUCS\Desktop\프로젝트_주차관리\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.FindForm.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Form1.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.PayForm.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.FindForm.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Form1.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.PayForm.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\KMUCS\Desktop\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.FindForm.resources
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.PayForm.resources
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Management.resources
+C:\Users\h9910\OneDrive\바탕 화면\ParkingManagementApp\ParkingManagementApp_수정 정주완230602\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.ManagementPass.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.FindForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Management.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.ManagementPass.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.PayForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp(수정_손현준_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.FindForm.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Management.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.ManagementPass.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.PayForm.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\KMUCS\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.FindForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Management.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.ManagementPass.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.PayForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.FindForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Management.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.ManagementPass.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.PayForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Users\gupury\Desktop\ParkingManagementApp(수정_유명주_0603)\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.FindForm.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Management.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.ManagementPass.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.PayForm.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_최종\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.exe
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.deps.json
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.runtimeconfig.json
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\Snappier.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.AssemblyReference.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.FindForm.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GuidanceNote.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.MainForm.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Management.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.ManagementPass.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.PayForm.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.Properties.Resources.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.RegisterForm.resources
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.GenerateResource.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfoInputs.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.AssemblyInfo.cs
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CoreCompileInputs.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.csproj.CopyComplete
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\refint\ParkingManagementApp.dll
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.pdb
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ParkingManagementApp.genruntimeconfig.cache
+C:\Coding\SJU\23-1 C#Programing\HW\CSHW5\ParkingManagementApp_수정_정주완_0603\ParkingManagementApp\ParkingManagementApp\obj\Debug\net6.0-windows\ref\ParkingManagementApp.dll
